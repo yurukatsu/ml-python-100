@@ -11,3 +11,5 @@
 - [第1章 線形回帰](./chap01)
     - [1.1 最小二乗法](./chap01/01_least_squares_method.ipynb)
     - [1.2 重回帰](./chap01/02_multiple_regression.ipynb)
+    - [1.3 $\hat{\beta}$ の分布](./chap01/03_04_distribution_of_beta_and_rss.ipynb)
+    - [1.4 RSS の分布 ](./chap01/03_04_distribution_of_beta_and_rss.ipynb)
